@@ -1,0 +1,10 @@
+site_name: nightlanding_blog
+theme: 
+    name: material
+    language: zh
+    palette:
+        primary: indigo
+        accent: deep_orange
+      
+nav:
+  - 首页: index.md
